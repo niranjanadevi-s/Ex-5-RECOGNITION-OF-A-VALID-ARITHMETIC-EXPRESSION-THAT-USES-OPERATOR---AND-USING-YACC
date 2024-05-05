@@ -62,7 +62,6 @@ do {
 yyparse();
 }while(!feof(yyin)); }
  yyerror(char*s)
-{
 }
 ~~~
 
